@@ -11,7 +11,7 @@ Installation of this module uses composer. For composer documentation, please re
 [getcomposer.org](http://getcomposer.org/).
 
 ```sh
-composer require zf3belcebur/mongodb-logger
+composer require zf3belcebur/materialize-css-helper
 ```
 
 Then add `ZF3Belcebur\MaterialiceCssHelper` to your `config/application.config.php`
