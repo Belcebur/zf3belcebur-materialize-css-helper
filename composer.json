@@ -1,0 +1,17 @@
+{
+    "name": "zf3belcebur/materialize-css-helper",
+    "description": "MaterializeCss Helper integration to ZF3",
+    "type": "library",
+    "require": {
+        "php": "^7.1",
+        "zendframework/zend-form": "^2.0"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "David Garcia",
+            "email": "garcia.gordo.david@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
