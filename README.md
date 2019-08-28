@@ -5,6 +5,9 @@ ZF3 materialize-css-helper
 
 `This module overwrites the original ZF view helpers defined below.`
 
+## See
+- [https://packagist.org/explore/?query=zf3belcebur](https://packagist.org/explore/?query=zf3belcebur)
+
 ## Installation
 
 Installation of this module uses composer. For composer documentation, please refer to
