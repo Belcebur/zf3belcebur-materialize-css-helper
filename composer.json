@@ -1,6 +1,17 @@
 {
     "name": "zf3belcebur/materialize-css-helper",
     "description": "MaterializeCss Helper integration to ZF3",
+  "keywords": [
+    "View",
+    "Helper",
+    "View Helper",
+    "Zend",
+    "ZF3",
+    "Materializecss",
+    "Styles",
+    "Form",
+    "Tools"
+  ],
     "type": "library",
     "require": {
         "php": "^7.1",
@@ -9,7 +20,8 @@
     "suggest": {
         "zf3belcebur/doctrine-orm-resources": "DoctrineORM Resources to ZF3",
         "zf3belcebur/mongodb-logger": "MongoDb Logger integration to ZF3",
-        "zf3belcebur/oauth2-social-client": "ZF3 extends module from thephpleague/oauth2-client"
+      "zf3belcebur/oauth2-social-client": "ZF3 extends module from thephpleague/oauth2-client",
+      "zf3belcebur/mvc-basic-tools": "ZF3 tools for controllers,views,helpers, plugins and more ..."
     },
     "license": "Apache-2.0",
     "authors": [
