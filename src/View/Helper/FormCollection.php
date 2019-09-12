@@ -33,7 +33,7 @@ class FormCollection extends \Zend\Form\View\Helper\FormCollection
             $templateMarkup .= $elementHelper($elementOrFieldset);
         }
 
-        $regex = '/(id=[\'"].+[\'"])\s/m';
+        $regex = '/(id=[\'"][\w\\[\]]+[\'"])/m';
 
         return sprintf($this->getTemplateWrapper(), $escapeHtmlAttribHelper(preg_replace($regex, '', $templateMarkup)));
     }
